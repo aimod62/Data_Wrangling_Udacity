@@ -3,7 +3,7 @@ Submission corresponding to the Data Wrangling Course / UDACITY Data Science Nan
 
 The present submission contains the following files:
 
-1-	HTML file answering the rubric questions, and describing the wrangling process of the OSM XLM file corresponding to the region of Naples, Italy.
+1-	A PDF file answering the rubric questions, and describing the wrangling process of the OSM XLM file corresponding to the region of Naples, Italy.
 
 2-	Python code used for auditing and cleaning of the data. 
 
