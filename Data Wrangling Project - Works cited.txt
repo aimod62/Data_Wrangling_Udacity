@@ -1,0 +1,57 @@
+Data Wrangling Project
+UDACITY
+Data Science Nanodegree
+September 4, 2017
+
+Works Cited
+Kazil, J. and Jamul, K. (2016). Data Wrangling with Python. Sebastopol, CA: O’Reilly Media.
+
+McKinney, Wes. ( 2012)Python for Data Analysis. Sebastopol, CA: O’Reilly Media.
+
+Naples. (2017, September 3). In Wikipedia, The Free Encyclopedia. Retrieved
+20:53, September 4, 2017
+from https://en.wikipedia.org/w/index.php?title=Naples&oldid=798778473
+
+OpenStreetMap contributors. (2015) Planet dump [Data file from $date of database dump$]. 
+Retrieved from https://planet.openstreetmap.org
+
+OSM XML. (2017, January 13). OpenStreetMap Wiki, . Retrieved 06:39, septiembre 6, 2017 
+from http://wiki.openstreetmap.org/w/index.php?title=OSM_XML&oldid=1419416.
+
+DataCamp – Introduction to Databases in Python Course
+
+DataCamp- Data Types for Data Science Course.
+
+Stackoverflow consulted
+
+https://stackoverflow.com/questions/14509188/remove-empty-blanks-elements-in-collection-of-xml-nodes
+https://stackoverflow.com/questions/30714449/writing-list-of-dictionaries-to-csv-with-each-dictionarys-values-in-a-new-colum
+https://stackoverflow.com/questions/26944274/valueerror-dict-contains-fields-not-in-fieldnames
+https://stackoverflow.com/questions/4521426/delete-blank-rows-from-csv
+https://stackoverflow.com/questions/38600591/loop-over-list-of-dictionaries-and-within-list-values	
+https://stackoverflow.com/questions/42249655/python-how-to-convert-a-list-of-dict-to-a-list-of-tuples
+https://stackoverflow.com/questions/40581247/how-to-unpack-a-dictionary-of-list-of-dictionaries-and-return-as-grouped-tuple
+https://stackoverflow.com/questions/41795296/python-write-a-list-of-dictionaries-to-csv
+https://stackoverflow.com/questions/30714449/writing-list-of-dictionaries-to-csv-with-each-dictionarys-values-in-a-new-colum
+https://stackoverflow.com/questions/33955079/write-list-of-dictionary-into-csv-python
+https://stackoverflow.com/questions/7058120/whats-the-best-way-to-format-a-phone-number-in-python
+https://stackoverflow.com/questions/10365225/extract-digits-in-a-simple-way-from-a-python-string
+https://stackoverflow.com/questions/28538536/deleting-multiple-columns-in-pandas
+http://hakanu.net/sql/2015/08/25/sqlite-unicode-string-problem/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
