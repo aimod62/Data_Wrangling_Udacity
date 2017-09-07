@@ -4,13 +4,16 @@ Data Science Nanodegree
 September 4, 2017
 
 Works Cited
-Kazil, J. and Jamul, K. (2016). Data Wrangling with Python. Sebastopol, CA: O’Reilly Media.
 
-McKinney, Wes. ( 2012)Python for Data Analysis. Sebastopol, CA: O’Reilly Media.
+Janeczko, Paul.(2006). TOP SECRET, a Handbook of Codes, Ciphers, and Secret Writings. York, PA: Candlewick Press.
 
-Naples. (2017, September 3). In Wikipedia, The Free Encyclopedia. Retrieved
+Kazil, J. and Jamul, K. (2016). Data Wrangling with Python. Sebastopol, CA: Oâ€™Reilly Media.
+
+McKinney, Wes. ( 2012). Python for Data Analysis. Sebastopol, CA: Oâ€™Reilly Media.
+
+Naples. (2017, September 3). InÂ Wikipedia, The Free Encyclopedia. Retrieved
 20:53, September 4, 2017
-from https://en.wikipedia.org/w/index.php?title=Naples&oldid=798778473
+fromÂ https://en.wikipedia.org/w/index.php?title=Naples&oldid=798778473
 
 OpenStreetMap contributors. (2015) Planet dump [Data file from $date of database dump$]. 
 Retrieved from https://planet.openstreetmap.org
@@ -18,7 +21,7 @@ Retrieved from https://planet.openstreetmap.org
 OSM XML. (2017, January 13). OpenStreetMap Wiki, . Retrieved 06:39, septiembre 6, 2017 
 from http://wiki.openstreetmap.org/w/index.php?title=OSM_XML&oldid=1419416.
 
-DataCamp – Introduction to Databases in Python Course
+DataCamp â€“ Introduction to Databases in Python Course
 
 DataCamp- Data Types for Data Science Course.
 
