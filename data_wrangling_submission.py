@@ -354,7 +354,7 @@ what_do_you_want_to_eat('regional',2)
 
 #Scanvenger hunt
 tree = etree.parse('map.osm')
-root = etree.XML(istree)
+root = etree.XML(etree.tostring(tree))
 path = ('.//node[tag[@k = "amenity" and @v = "restaurant"]]')
 list_clues = root.xpath(path)
 print(list_clues)
