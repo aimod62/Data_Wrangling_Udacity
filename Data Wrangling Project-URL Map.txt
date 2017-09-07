@@ -3,13 +3,20 @@ UDACITY
 Data Science Nanodegree
 September 4, 2017
 
-Naples, Italy – OSM XLM File
+Naples, Italy â€“ OSM XLM File
 
 URL: https://mapzen.com/data/metro-extracts/metro/naples_italy/
 Compressed Size: OSM XML 4.8 MB
 Decompressed Size: 62.7 MB
 
-Short Description and Reason of my choice is in the abstract of required HTML file. I enclosed anew to comply with requirement:
-Naples, Italy is the area of my choice. Situated in the region of Campania, this municipality prevails as one of the largest Mediterranean cities with around 4.4 million people living in the metropolitan area. The port of Naples is ranked as the world’s second highest level of passenger flow just after Hong-Kong. In the last decades, it has significantly expanded the transport infrastructure by developing the subway network and a high-speed rail linking the cities of Salerno and Roma. 
-With such an influx of people, and the ongoing enlargement, it could became extremely handy to have access to a database which can provide directions on where to find a pizza, a planetarium, or the nightclub of your taste (who dares to say that Data Science is boring?). My efforts head in that direction, and in order to do so I have overpassed the surface elements: tag, node, way, and relation from the OSM file, and struggled to dig deeper in search of the attributes of interest.
+Short Description and Reason of my choice is in the abstract of required PDF file. I enclose it anew to comply with requirement:
+Naples, Italy is the area of my choice. Situated in the region of Campania, this municipality prevails as one of the largest
+Mediterranean cities with around 4.4 million people living in the metropolitan area. 
+The port of Naples is ranked as the worldâ€™s second highest level of passenger flow just after Hong-Kong. 
+In the last decades, it has significantly expanded the transport infrastructure by developing the subway network
+and a high-speed rail linking the cities of Salerno and Roma. 
+With such an influx of people, and the ongoing enlargement, it could became extremely handy to have access to a database 
+which can provide directions on where to find a pizza, a planetarium, or the nightclub of your taste 
+(who dares to say that Data Science is boring?). My efforts head in that direction, and in order to do so I have overpassed 
+the surface elements: tag, node, way, and relation from the OSM file, and struggled to dig deeper in search of the attributes of interest.
 
